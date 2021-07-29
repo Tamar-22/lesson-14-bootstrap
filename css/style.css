@@ -4,6 +4,17 @@ body{
 .navbar{
 	background-color: #ffe6ff;
 }
+.font-size{
+	font-size: 15px;
+}
+.image{
+	max-width: 320px;
+	width: 100%;
+}
+.logo{
+	width: 35px;
+}
+
 .font-color{
 	color: #d98cb1;
 	font-weight: bold;
@@ -15,7 +26,4 @@ body{
 }
 .row{
 	background-color: #ffe6ff ;
-}
-.font-size{
-	font-size: 15px;
 }
